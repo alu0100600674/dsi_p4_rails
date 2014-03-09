@@ -9,4 +9,3 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-DsiP4Rails::Application.config.secret_key_base = 'da984dc577bf8ed0035946f59f21d1adbe03005fe09c6afb96e2395ae9248b398688553196c6fe09b135897fd80162c27764cb56543cb87a6c6eabad8d264cf7'
